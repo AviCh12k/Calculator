@@ -23,7 +23,7 @@ h5,h3,h2{
     text-align: end;
     font-size: 40px;
 }
-.operator, .number{
+.spl_operator, .operator, .number{
     background-color: aquamarine;
     width: 70px;
     height: 60px;
@@ -31,7 +31,7 @@ h5,h3,h2{
     text-align: center;
     line-height: 60px;
 }
-.operator:hover , .number:hover{
+.operator:hover, .spl_operator:hover, .number:hover{
     background-color: rgb(8, 99, 99);
     color: white
 }
